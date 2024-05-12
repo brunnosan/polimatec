@@ -8,7 +8,7 @@ const Section1 = () => {
           <div className="absolute x-0 y-0 z-3">
             <div className="absolute x-0 y-0 z-3" style={{backgroundColor: 'rgb(5, 21, 67)', opacity: '0.7',}} />
             <div className='absolute z-0 x-0 y-0'>
-              <img src='src/assets/images/photo-1496247749665-49cf5b1022e9.jpeg'
+              <img src='public/assets/images/photo-1496247749665-49cf5b1022e9.jpeg'
                 className='w-full h-full'
                 style={{
                   objectFit: 'cover',
