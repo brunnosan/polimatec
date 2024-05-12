@@ -1,4 +1,5 @@
 import { Button } from "primereact/button";
+import imgSection2 from '/src/assets/images/photo-1474674556023-efef886fa147.jpeg';
 
 const Section2 = () => {
   return (
@@ -33,7 +34,7 @@ const Section2 = () => {
                     bottom: 0,
                     right: 0
                   }}>
-                  <img src='src/images/photo-1474674556023-efef886fa147.jpeg'
+                  <img src={imgSection2}
                     className='w-full h-full'
                     // style={{
                     //   objectFit: 'cover',

@@ -1,4 +1,5 @@
 import { Button } from "primereact/button";
+import polimatecLogo from '/src/assets/images/polimatec-logo.png';
 
 const Header = () => {
   return (
@@ -9,7 +10,7 @@ const Header = () => {
       >
         <div className="flex mx-8 gap-5 p-4 align-items-center justify-content-between">
           <div className="flex gap-3 h-3rem">
-            <img className="w-3rem" src="src/components/Header/images/polimatec-logo.png" alt="Logotipo" />
+            <img className="w-3rem" src={polimatecLogo} alt="Logotipo" />
             <span className="text-4xl titillium-web-bold line-height-3">Polimatec</span>
           </div>
           <div>

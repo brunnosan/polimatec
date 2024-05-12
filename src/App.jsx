@@ -1,7 +1,7 @@
 import 'primeflex/primeflex.css'
 import 'primeicons/primeicons.css';
 import 'primereact/resources/themes/mdc-dark-indigo/theme.css';
-import "/src/styles/index.css";
+import "./styles/index.css";
         
 import Header from './components/Header';
 import Main from './components/Main';
