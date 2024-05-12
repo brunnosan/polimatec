@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0 solid;
+  -webkit-font-smoothing: antialiased;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+  -webkit-text-size-adjust: 100%
+}
+
+.titillium-web-bold {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.opensans-web {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.line-height-1_75 {
+  line-height: 1.75rem;
+}
+
+.-mt-9 {
+  margin-top: -6rem !important
+}
+
+.max-w-48xl {
+  max-width: 48rem
+}
+
+.max-w-60xl {
+  max-width: 60rem
+}
+
+.p-0_75 {
+  padding: 0.75rem;
+}
+
+.p-1_75 {
+  padding: 1.75rem;
+}
+
+.p-5_5 {
+  padding: 5.5rem;
+}
+
+.pb-5_5 {
+  padding-bottom: 5.5rem;
+}
+
+.p_8 {
+  padding: 8rem;
+}
+
+.p-12 {
+  padding: 12rem;
+}
+
+.p_100_percent {
+  padding: 100%;
+}
+
+.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
+.transition_all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+  transition-duration: .15s
+}
+
+.transition_colors {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+  transition-duration: .15s
+}
+
+.x-0 {
+  left: 0;
+  right: 0;
+}
+
+.y-0 {
+  top: 0;
+  bottom: 0;
+}
+
+.\!z-\[2000\] {
+  z-index: 2000 !important
+}
