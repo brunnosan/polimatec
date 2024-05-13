@@ -24,7 +24,7 @@ const Section5 = () => {
             <div className='col-4 flex flex-column' style={{flex: '0 0 calc(33.333333% - (2rem * 2) / 3)', minWidth: '21rem', minHeight: '14rem', maxWidth: '27rem', maxHeight: '18rem'}}>
               <img src={imgSection5_2} className="h-18rem sm:h-14rem md:h-14rem" style={{objectFit: 'cover', objectPosition: 'center'}} />
             </div>
-            <div className='col-4 flex flex-column' style={{flex: '0 0 calc(33.333333% - (2rem * 2) / 3)', minWidth: '21rem', minHeight: '14rem', maxWidth: '27rem', maxHeight: '18rem'}}>
+            <div className='col-4 flex flex-column' style={{flex: '0 0 calc(33.333333% - (2rem * 2) / 3)', minWidth: '16rem', minHeight: '14rem', maxWidth: '27rem', maxHeight: '18rem'}}>
               <img src={imgSection5_3} className="w-27rem sm:w-16rem" style={{objectFit: 'cover', objectPosition: 'center'}} />
             </div>
             <div className='col-4 flex flex-column' style={{flex: '0 0 calc(33.333333% - (2rem * 2) / 3)', minWidth: '21rem', minHeight: '14rem'}}>
