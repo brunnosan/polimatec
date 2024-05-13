@@ -16,7 +16,7 @@ const Section5 = () => {
           <div className='flex flex-row flex-wrap gap-5 grid-nogutter'>
           {/* <div className="grid"> */}
             <div className='col-4 flex flex-column' style={{flex: '0 0 calc(33.333333% - (2rem * 2) / 3)', minWidth: '21rem', minHeight: '14rem'}}>
-              <img src={imgSection5_1} className="w-27rem h-18rem sm:w-18rem sm:h-14rem md:w-18rem md:h-14rem" style={{objectFit: 'cover', objectPosition: 'center'}} />
+              <img src={imgSection5_1} className="w-27rem h-18rem sm:h-25rem md:h-25rem" style={{objectFit: 'cover', objectPosition: 'center'}} />
             </div>
             <div className='col-4 flex flex-column' style={{flex: '0 0 calc(33.333333% - (2rem * 2) / 3)', minWidth: '21rem', minHeight: '14rem'}}>
               <img src={imgSection5_2} className="w-27rem h-18rem sm:w-18rem sm:h-14rem" style={{objectFit: 'cover', objectPosition: 'center'}} />
