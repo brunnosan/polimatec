@@ -2,6 +2,7 @@ import { Button } from "primereact/button";
 import bgSection1 from '/src/assets/images/photo-1496247749665-49cf5b1022e9.jpeg';
 
 const Section1 = () => {
+
   return (
     <>
       <section className='relative'>
@@ -29,5 +30,5 @@ const Section1 = () => {
     </>
   );
 }
-
-      export default Section1;
+ 
+export default Section1;
